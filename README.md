@@ -20,6 +20,6 @@ In comparison, the belwo table shows that Doc2vec+XGBoost has lower training MSE
 |LDA+XGBoost model|2.82| 159.43 | 
 
 The prject needs further improvements in three areas:
-1- Including more sources of climate risk relevant documents to build a more complete corpus for further NLP modelling and testing.
-2- Achieving totally automatic corpus construction process by better utilization of dynamic web scraping techniques.
-3- Trying out more ‘advanced’ models and techniques. 
+- Including more sources of climate risk relevant documents to build a more complete corpus for further NLP modelling and testing.
+- Achieving totally automatic corpus construction process by better utilization of dynamic web scraping techniques.
+- Trying out more ‘advanced’ models and techniques. 
